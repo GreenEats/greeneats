@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.how-work {
+	text-align: center;
+}
+
+#footer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #fff;
+  background: #222222;
+}
+
+.copyright {
+	text-align: center;
+}
+.primary_header {
+	width: 100%;
+	background-color: seagreen;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#headerLinks {
+	width: calc( 100% - 10px );
+	text-align: right;
+	}
